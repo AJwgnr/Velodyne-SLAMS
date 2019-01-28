@@ -1,0 +1,12 @@
+[submodule "loam"]
+	path = loam
+	url = https://github.com/laboshinl/loam_velodyne.git
+[submodule "hdl_graph_slam"]
+	path = hdl_graph_slam
+	url = https://github.com/koide3/hdl_graph_slam.git
+[submodule "cartographer"]
+	path = cartographer
+	url = https://github.com/googlecartographer/cartographer.git
+[submodule "blam"]
+	path = blam
+	url = https://github.com/erik-nelson/blam.git
